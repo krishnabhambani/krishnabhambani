@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Problem?+Let+me+handle+it!;" />
+</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on FUTURE EMAIL <br>👯 I’m looking to collaborate on DEADSTOCK<br>🌱 I’m currently learning MERN STACK <br>💬 Ask me about DSA<br>⚡ Fun fact I NEVER STUDY...
 
