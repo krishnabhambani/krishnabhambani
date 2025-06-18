@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-🔭 I’m currently working on FUTURE EMAIL <br>👯 I’m looking to collaborate on DEADSTOCK<br>🌱 I’m currently learning MERN STACK <br>💬 Ask me about DSA<br>⚡ Fun fact I NEVER STUDY...
+🔭 I’m currently working on LMS <br>👯 I’m looking to collaborate on DEADSTOCK<br>🌱 I’m currently learning MERN STACK <br>💬 Ask me about DSA<br>⚡ Fun fact I NEVER STUDY...
 
 
 ## 🌐 Socials:
